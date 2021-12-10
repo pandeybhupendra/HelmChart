@@ -1,4 +1,4 @@
-def containerName="docker-pipelinea"
+def containerName="docker-pipeline"
 def dockerHubUser="pandeybhupendra"
 def httpPort="8090"
 
